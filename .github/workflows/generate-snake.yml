@@ -15,8 +15,11 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@master
         with:
-          github_user_name: SumanChettri  # Replace with your username
+          github_user_name: SumanChettri
           outputs: dist, dist_static
+
+      - name: List generated files
+        run: ls -la
 
       - name: Commit and Push Snake Animation
         uses: EndBug/add-and-commit@v7
