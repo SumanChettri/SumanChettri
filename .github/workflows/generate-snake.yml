@@ -15,7 +15,7 @@ jobs:
       - name: Generate Snake Animation
         uses: Platane/snk@master
         with:
-          github_user_name: YourGitHubUsername  # Replace with your username
+          github_user_name: SumanChettri  # Replace with your username
           outputs: dist, dist_static
 
       - name: Commit and Push Snake Animation
