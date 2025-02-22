@@ -1,9 +1,8 @@
-
 name: Update README with Blog Posts
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Runs every day at midnight
+    - cron: '0 0 * * *'  # Runs every day at midnight (UTC)
   workflow_dispatch:
 
 jobs:
