@@ -1,11 +1,11 @@
 <!-- Animated Header Banner -->
-<img src="https://raw.githubusercontent.com/username/banner-repo/main/animated-banner.gif" alt="Animated Banner" style="width:100%; max-height:300px;">
+<img src="https://raw.githubusercontent.com/SumanChettri/banner-repo/main/animated-banner.gif" alt="Animated Banner" style="width:100%; max-height:300px;">
 
-# Hi, I'm **YourName** 👋
+# Hi, I'm **Suman Tewari** 👋
 
 I'm a passionate developer who loves creating **dynamic**, **animated**, and **stylish** projects. Welcome to my profile!
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blue&style=flat-square)](https://github.com/YourGitHubUsername)
+[![Profile Views](https://komarev.com/ghpvc/?username=SumanChettri&color=blue&style=flat-square)](https://github.com/SumanChettri)
 
 ---
 
@@ -14,40 +14,40 @@ I'm a passionate developer who loves creating **dynamic**, **animated**, and **s
 - 🔭 I’m currently working on cutting-edge open-source projects.
 - 🌱 I’m learning advanced JavaScript frameworks and exploring AI.
 - 💬 Ask me about **web animations**, **dynamic dashboards**, and more!
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+- 📫 How to reach me: [sumantewari758@gmail.com](mailto: sumantewari758@gmail.com)
 
 ---
 
 ## 📊 GitHub Stats
 
 <!-- Dynamic GitHub Stats with custom theme and rounded corners -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight&count_private=true&hide=issues&border_radius=10)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SumanChettri&show_icons=true&theme=tokyonight&count_private=true&hide=issues&border_radius=10)
 
 <!-- GitHub Streak -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=YourGitHubUsername&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=SumanChettri&theme=tokyonight&hide_border=true)
 
 <!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SumanChettri&layout=compact&theme=tokyonight&langs_count=8)
 
 ---
 
 ## 🌱 Activity Graph
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YourGitHubUsername&theme=react-dark&hide_border=true&bg_color=0D1117)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SumanChettri&theme=react-dark&hide_border=true&bg_color=0D1117)
 
 ---
 
 ## 🐍 Contribution Snake
 
 <!-- Animated Snake - generated via a GitHub Action (see generate-snake.yml) -->
-![Snake animation](https://github.com/YourGitHubUsername/YourGitHubUsername/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/SumanChettri/SumanChettri/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 ## 🏆 GitHub Trophies
 
 <!-- Animated trophies using GitHub Trophies -->
-[![trophy](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=radical&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SumanChettri&theme=radical&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -61,7 +61,7 @@ I'm a passionate developer who loves creating **dynamic**, **animated**, and **s
 ## 🔥 Featured Projects
 
 <!-- Animated Project Cards using Shields or custom SVGs -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YourGitHubUsername&repo=YourFeaturedProject&theme=tokyonight)](https://github.com/YourGitHubUsername/YourFeaturedProject)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SumanChettri&repo=YourFeaturedProject&theme=tokyonight)](https://github.com/SumanChettri/Organic)
 
 ---
 
