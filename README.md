@@ -1,103 +1,95 @@
 <!-- Animated Header Banner -->
-<img src="https://raw.githubusercontent.com/SumanChettri/banner-repo/main/animated-banner.gif" alt="Animated Banner" style="width:100%; max-height:300px;">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SumanChettri/banner-repo/main/animated-banner.gif" alt="Animated Banner" style="width:100%; max-height:300px; border-radius:10px;">
+</p>
 
-# Hi, I'm **Suman Tewari** 👋
+<h1 align="center">Hi, I'm <span style="color:#ff6600;">Suman Tewari</span> 👋</h1>
 
-I'm a passionate developer who loves building **dynamic**, **animated**, and **stylish** projects. I craft creative web experiences and explore new technologies like AI, PHP, and Tailwind CSS. Welcome to my profile!
+<p align="center">
+  I'm a passionate <strong>Full-Stack Developer</strong> who loves building <strong>dynamic</strong>, <strong>animated</strong>, and <strong>stylish</strong> web experiences. 
+  I explore new technologies like <strong>AI, PHP, and Tailwind CSS</strong>, while crafting modern, interactive user interfaces.
+</p>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=SumanChettri&color=blue&style=flat-square)](https://github.com/SumanChettri)
+<p align="center">
+  <a href="https://sumanchettri.github.io/My_Portfolio"><img src="https://img.shields.io/badge/My Portfolio-ff6600?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:sumantewari758@gmail.com"><img src="https://img.shields.io/badge/Email Me-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/SumanChettri">
+    <img src="https://komarev.com/ghpvc/?username=SumanChettri&color=blue&style=flat-square" alt="Profile Views">
+  </a>
+</p>
 
 ---
 
-## 🚀 About Me
+## 🚀 **About Me**
 
 <div align="left">
-  
-**Who I Am:**  
-- 🔭 Working on cutting-edge open-source projects in web development and AI.  
-- 🌱 Learning advanced JavaScript frameworks, PHP, Python, and more.  
-- 💬 Passionate about crafting smooth web animations and interactive dashboards.  
-- 🎨 I blend design with code to create engaging, user-friendly interfaces.  
-- 📫 Reach out at: [sumantewari758@gmail.com](mailto:sumantewari758@gmail.com)
+
+- 🔭 Currently working on <strong>cutting-edge open-source projects</strong> in web development and AI.  
+- 🌱 Learning advanced **JavaScript frameworks, PHP, Python, and more**.  
+- 💬 Passionate about **smooth web animations & interactive dashboards**.  
+- 🎨 I love blending **design with code** to create **engaging UX/UI experiences**.  
+- 📫 <strong>Let's connect:</strong> [sumantewari758@gmail.com](mailto:sumantewari758@gmail.com)  
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 **GitHub Stats**
 
 <div align="center">
-
-<!-- Enhanced GitHub Stats Card with more details -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SumanChettri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues&border_radius=10)
-
-<!-- GitHub Streak for continuous activity -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=SumanChettri&theme=tokyonight&hide_border=true)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=SumanChettri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues&border_radius=10" alt="GitHub Stats" width="48%">
+  <img src="https://streak-stats.demolab.com/?user=SumanChettri&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%">
 </div>
 
 ---
 
-## 💻 Most Used Languages
-
+## 💻 **Most Used Languages**
 <div align="center">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SumanChettri&layout=compact&theme=tokyonight&langs_count=8)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumanChettri&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" width="48%">
 </div>
 
 ---
 
-## 📈 Activity Graph
-
+## 📈 **Activity Graph**
 <div align="center">
-  
-<!-- Activity graph with custom line and point colors for clarity -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SumanChettri&theme=react-dark&hide_border=true&line=00BFFF&point=FF1493)
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SumanChettri&theme=react-dark&hide_border=true&line=00BFFF&point=FF1493" alt="GitHub Activity Graph">
 </div>
 
 ---
 
-## 🐍 Contribution Snake
-
+## 🐍 **Contribution Snake**
 <div align="center">
-  
-![Snake animation](https://github.com/SumanChettri/SumanChettri/blob/output/github-contribution-grid-snake.svg)
-
+  <img src="https://github.com/SumanChettri/SumanChettri/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
+## 🏆 **GitHub Trophies**
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=SumanChettri&theme=radical&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <img src="https://github-profile-trophy.vercel.app/?username=SumanChettri&theme=radical&column=4" alt="GitHub Trophies">
 </div>
 
 ---
 
-## 📝 Recent Blog Posts
-
+## 📝 **Recent Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ---
 
-## 🔥 Featured Projects
-
+## 🔥 **Featured Projects**
 <div align="center">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SumanChettri&repo=Organic&theme=tokyonight)](https://github.com/SumanChettri/Organic)
-
+  <a href="https://github.com/SumanChettri/Organic">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SumanChettri&repo=Organic&theme=tokyonight" alt="Project">
+  </a>
 </div>
 
 ---
 
-## 🛠 Skills & Technologies
-
+## 🛠 **Skills & Technologies**
 <div align="center">
 
 <table>
@@ -119,16 +111,11 @@ I'm a passionate developer who loves building **dynamic**, **animated**, and **s
 
 </div>
 
-*Note: The table above simulates two animated cards in a row. Although GitHub READMEs cannot run custom animations, using the "for-the-badge" style gives a modern, dynamic look.*
-
 ---
 
-## 🌐 Connect with Me
-
+## 🌐 **Connect with Me**
 <div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YourProfile/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/YourProfile)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://YourPortfolio.com)
-  
+  <a href="https://www.linkedin.com/in/YourProfile/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://twitter.com/YourProfile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"></a>
+  <a href="https://sumanchettri.github.io/My_Portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel" alt="Portfolio"></a>
 </div>
