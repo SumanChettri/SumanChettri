@@ -36,8 +36,8 @@
   </a>
 </p>
 
-```css
-/* Add this to make the Portfolio button glow */
+<style>
+
 a img[alt="Portfolio"] {
   animation: glowing 1.5s infinite alternate;
 }
@@ -49,3 +49,4 @@ a img[alt="Portfolio"] {
     box-shadow: 0 0 20px #ff6600;
   }
 }
+</style>
