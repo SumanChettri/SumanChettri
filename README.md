@@ -15,46 +15,32 @@
 
 ---
 
-## 🚀 **About Me**
+## 👋 Welcome!
 
-<div align="center">
-
-🎓 **B.Tech in Computer Science & Engineering (CSE)**  
-🔭 Currently working on **cutting-edge open-source projects**  
-💡 Learning **Next.js, PHP, AI, and Advanced JavaScript**  
-🎨 Passionate about **interactive UI/UX & stylish web animations**  
-📬 Reach me at: **[sumantewari758@gmail.com](mailto:sumantewari758@gmail.com)**  
-
-</div>
+I'm Suman Tewari, a passionate Full-Stack Developer with a B.Tech in Computer Science & Engineering. I thrive on building innovative web applications and exploring the latest in AI, Mobile devlopment, and modern web technologies. My journey is fueled by a love for crafting smooth animations and engaging user experiences.
 
 ---
 
-## 🌟 **Check Out My Portfolio**
+## 🚀 About Me
+
+- 🎓 Graduated with a Diploma in Computer Engineering (CSE).  
+- 🌱 Continuously learning advanced JavaScript frameworks, DSA, Python, and more.  
+- 💬 Enthusiastic about creating smooth web animations and interactive dashboards.  
+- 🎨 I blend design and code to deliver engaging UX/UI experiences.  
+- 📫 Feel free to reach out: [sumantewari758@gmail.com](mailto:sumantewari758@gmail.com)  
+
+---
+
+## 🌟 Check Out My Portfolio
 <p align="center">
   <a href="https://sumanchettri.github.io/My_Portfolio" target="_blank">
     <img src="https://img.shields.io/badge/-My%20Portfolio-ff6600?style=for-the-badge&logo=vercel&logoColor=white&animation=glow">
   </a>
 </p>
 
-
-
 ---
 
-## 🚀 **About Me**
-
-<div align="left">
-
-- 🔭 Currently working on <strong>cutting-edge open-source projects</strong> in web development and AI.  
-- 🌱 Learning advanced **JavaScript frameworks, PHP, Python, and more**.  
-- 💬 Passionate about **smooth web animations & interactive dashboards**.  
-- 🎨 I love blending **design with code** to create **engaging UX/UI experiences**.  
-- 📫 <strong>Let's connect:</strong> [sumantewari758@gmail.com](mailto:sumantewari758@gmail.com)  
-
-</div>
-
----
-
-## 📊 **GitHub Stats**
+## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SumanChettri&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues&border_radius=10" alt="GitHub Stats" width="48%">
@@ -63,41 +49,35 @@
 
 ---
 
-## 💻 **Most Used Languages**
+## 💻 Most Used Languages
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumanChettri&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" width="48%">
 </div>
 
 ---
 
-## 📈 **Activity Graph**
+## 📈 Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SumanChettri&theme=react-dark&hide_border=true&line=00BFFF&point=FF1493" alt="GitHub Activity Graph">
 </div>
 
 ---
 
-## 🐍 **Contribution Snake**
+## 🐍 Contribution Snake
 <div align="center">
   <img src="https://github.com/SumanChettri/SumanChettri/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
 </div>
 
 ---
 
-## 🏆 **GitHub Trophies**
+## 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SumanChettri&theme=radical&column=4" alt="GitHub Trophies">
 </div>
 
 ---
 
-## 📝 **Recent Blog Posts**
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 🔥 **Featured Projects**
+## 🔥 Featured Projects
 <div align="center">
   <a href="https://github.com/SumanChettri/Organic">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SumanChettri&repo=Organic&theme=tokyonight" alt="Project">
@@ -106,7 +86,7 @@
 
 ---
 
-## 🛠 **Skills & Technologies**
+## 🛠 Skills & Technologies
 <div align="center">
 
 <table>
@@ -130,9 +110,15 @@
 
 ---
 
-## 🌐 **Connect with Me**
+## 🌐 Connect with Me
 <div align="center">
-  <a href="https://www.linkedin.com/in/YourProfile/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://twitter.com/YourProfile"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/suman-tewari-123456789/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://twitter.com/suman_tewari"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" alt="Twitter"></a>
   <a href="https://sumanchettri.github.io/My_Portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel" alt="Portfolio"></a>
 </div>
+
+---
+
+## 📫 Let's Connect!
+
+I'm always open to new opportunities, collaborations, or just a friendly chat about technology and development. Feel free to reach out via email or connect with me on social media!
