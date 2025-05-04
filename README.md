@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=ff6600&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Suman+Tewari!+👋;Full-Stack+Developer+%7C+B.Tech+CSE+%F0%9F%8F%AB;Exploring+AI%2C+PHP%2C+and+Modern+Web+Tech!+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=ff6600&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Suman+Tewari!+👋;Currently+pursuing+B.Tech+in+CSE+%F0%9F%8E%93;Exploring+AI%2C+PHP%2C+and+Modern+Web+Tech!+🚀" />
 </h1>
 
 <p align="center">
@@ -17,14 +17,16 @@
 
 ## 👋 Welcome!
 
-I'm Suman Tewari, a passionate Full-Stack Developer with a B.Tech in Computer Science & Engineering. I thrive on building innovative web applications and exploring the latest in AI, Mobile devlopment, and modern web technologies. My journey is fueled by a love for crafting smooth animations and engaging user experiences.
+I'm Suman Tewari, a passionate Full-Stack Developer currently pursuing a B.Tech in Computer Science & Engineering. I also hold a diploma in Computer Engineering from ATTC. I thrive on building innovative web applications and exploring the latest in AI, PHP, and modern web technologies. My journey is fueled by a love for crafting smooth animations and engaging user experiences.
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Graduated with a Diploma in Computer Engineering (CSE).  
-- 🌱 Continuously learning advanced JavaScript frameworks, DSA, Python, and more.  
+- 🎓 Currently pursuing a B.Tech in Computer Science & Engineering (CSE).  
+- 🎓 Diploma in Computer Engineering from ATTC.  
+- 🔭 Actively contributing to exciting open-source projects in web development and AI.  
+- 🌱 Continuously learning advanced JavaScript frameworks, PHP, Python, and more.  
 - 💬 Enthusiastic about creating smooth web animations and interactive dashboards.  
 - 🎨 I blend design and code to deliver engaging UX/UI experiences.  
 - 📫 Feel free to reach out: [sumantewari758@gmail.com](mailto:sumantewari758@gmail.com)  
